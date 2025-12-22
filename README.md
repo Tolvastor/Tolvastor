@@ -1,4 +1,4 @@
-# 👋 Hola, Antonio Toledo
+# 👋 Hola, soy Antonio Toledo
 
 🎓 Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.  
 💻 Me apasiona crear soluciones prácticas y mejorar mis habilidades como desarrollador full stack.
