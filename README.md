@@ -1,7 +1,8 @@
 # 👋 Hola, soy Antonio Toledo
 
-🎓 Actualmente estudio **Desarrollo de Aplicaciones Web (DAW)**.  
-💻 Me apasiona crear soluciones prácticas y mejorar mis habilidades como desarrollador full stack.
+🎓 Desarrollador Web Junior, formación en **Desarrollo de Aplicaciones Web (DAW)**.  
+💡 Siempre explorando nuevas herramientas y mejorando mis habilidades a través de proyectos personales.
+
 
 ---
 
@@ -32,8 +33,8 @@
 ---
 
 ## 📚 Sobre mí
-- Interesado en el desarrollo backend y frontend.
-- Me gusta trabajar con buenas prácticas, entornos dockerizados y proyectos escalables.
+- Desarrollador tanto en backend como en frontend.
+- Me motiva aprender nuevas tecnologías, enfrentarme a errores reales y mejorar mis proyectos.
 - Siempre aprendiendo y creando nuevos proyectos.
 
 ---
